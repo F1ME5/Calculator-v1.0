@@ -1,6 +1,8 @@
-#Práctica 01 Almacenes de Datos
-#Nahuatlato Neri Néstor Leonel
-#from tkinter import ttk
+# Copyright 2022 by Néstor Nahuatlato
+# <soy_nestor@hotmail.com>
+# Licensed under GNU General Public License 3.0 or later.
+# @license GPL-3.0+
+
 from tkinter import ttk
 import tkinter
 
