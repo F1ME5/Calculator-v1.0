@@ -45,7 +45,7 @@ C2_0 = 0
 C2_1 = 1
 C__1 = -1
 
-#Variables to use
+#Global variables
 accum = C2_0
 flag = False
 operator_to_use = EMPTY_STRING
